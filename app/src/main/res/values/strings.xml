@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">منجز</string>
+    <string name="followers_tab">المتابعون</string>
+    <string name="tasks_tab">المهام</string>
+    <string name="alerts_tab">التنبيهات</string>
+    <string name="stats_tab">الإحصائيات</string>
+    <string name="search_placeholder">بحث بالاسم، الهاتف أو المجال…</string>
+    <string name="add_follower">إضافة متابع</string>
+    <string name="edit_follower">تعديل بيانات المتابع</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="quick_actions">إجراءات سريعة</string>
+    <string name="direct_call">اتصال هاتفي</string>
+    <string name="whatsapp_chat">مراسلة واتساب</string>
+    <string name="send_sms">رسالة SMS</string>
+    <string name="send_email">بريد إلكتروني</string>
+    <string name="task_completed">تم الإنجاز</string>
+    <string name="task_pending">قيد التنفيذ</string>
+    <string name="task_priority_high">عالية الأهمية</string>
+    <string name="task_priority_medium">متوسطة</string>
+    <string name="task_priority_low">عادية</string>
+    <string name="send_instant_notification">إرسال تنبيه فوري</string>
+</resources>

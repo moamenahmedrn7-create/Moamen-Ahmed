@@ -1,0 +1,6 @@
+{
+  "name": "منجز",
+  "description": "تطبيق باللون النبيتي الأنيق لإدارة بيانات المتابعين، التواصل المباشر، تنظيم المهام وإرسال تنبيهات فورية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
